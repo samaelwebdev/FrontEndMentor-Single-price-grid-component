@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/samaelwebdev/FrontEndMentor-Single-price-grid-component](https://github.com/samaelwebdev/FrontEndMentor-Single-price-grid-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://samaelwebdev.github.io/FrontEndMentor-Single-price-grid-component/](https://samaelwebdev.github.io/FrontEndMentor-Single-price-grid-component/)
 
 ## My process
 
